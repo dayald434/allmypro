@@ -1,0 +1,3 @@
+127.0.0.1 - - [23/Mar/2019:03:05:32 +0900] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [23/Mar/2019:03:06:04 +0900] "GET /PojectForLogin/Attendance.jsp HTTP/1.1" 200 1870
+127.0.0.1 - - [23/Mar/2019:03:06:05 +0900] "GET /resources/demos/style.css HTTP/1.1" 404 1001
